@@ -1,4 +1,6 @@
-# github-tutorial-onlinefirst_v2
-GitHub Tutorial - Aanmaak van een online repository
+# GitHub Tutorial local folder first
 
-Developer: Philippe De Pauw - Waterschoot
+GitHub Tutorial - Aanmaak van een online repository local folder first
+
+**GRADUAAT PROGRAMMEREN ARTEVELDEHOGESCHOOL**
+We :heart: **Programming** :thumbsup: **Graphics** make **Cool** :poop:
